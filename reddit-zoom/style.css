@@ -1,0 +1,12 @@
+.rzoom__wrap {
+	position: absolute;
+}
+
+.rzoom__button {
+	display: block;
+  position: relative;
+  float: left;
+  left: -10px;
+  font-size: 1.5em;
+  font-weight: bold;
+}
